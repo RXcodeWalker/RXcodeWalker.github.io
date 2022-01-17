@@ -1,0 +1,11 @@
+<!DOCTYPE html> 
+<html> 
+<head>
+  <link rel="stylesheet" href="aboutme.css">
+</head>
+ <body>
+   <h1> All About Me! </h1> 
+   <p>Name: Om Jhamvar <br> Age: 12 <br> DOB: 5th September 2009 <br> Grade: 6B <br> Location of settlement: Khar (W), Mumbai, MH, India <br> School: Podar International School <br> Hobbies: Solving Rubik's cubes, programming, gaming, US Politics, playing cricket<br>
+     Favorite movie series: Marvel, Star Wars, Jurassic Park/World</p>
+    </body> 
+</html>
